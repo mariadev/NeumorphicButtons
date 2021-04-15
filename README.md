@@ -1,10 +1,10 @@
-# MariaGame
+# Neumorphic Buttons
 
-Game made using SpriteKi, a 2D sprite-based framework for games development from Apple.
+Neumorphic Buttons with Swift UI.
 
 
 ## Screenshots
 
 <p float="left">
-<img src="https://github.com/mariadev/MariaGame/blob/main/ScreenShots/Game.gif">
+<img src="https://github.com/mariadev/NeumorphicButtons/blob/main/ScreenShot/example1.gif">
 </p>
